@@ -1,2 +1,4 @@
-#Simple UI page design
-![Screenshot](/images/screenshot.png)
+# Simple UI page design
+
+## Screenshot
+![](images/screenshot.png)
