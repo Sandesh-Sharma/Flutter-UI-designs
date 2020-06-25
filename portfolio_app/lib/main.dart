@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/sandesh.jpg'),
             ),
             Text(
-              'Sandesh Sharma',
+              'Sandesh',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40.0,
